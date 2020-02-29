@@ -1,0 +1,2 @@
+# AI_tensorflow
+tensorflow_anaconda_cudnn_ubuntu
